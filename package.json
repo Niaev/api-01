@@ -1,14 +1,13 @@
 {
-  "name": "api-forchaahc",
+  "name": "api-foruns",
   "version": "1.0.0",
-  "description": "API base para o desenvolvimento do APP ForChaahc",
+  "description": "API base para o desenvolvimento do APP Foruns",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
     "api",
-    "forchaahc",
     "foruns"
   ],
   "author": "cloberson_the_man",
