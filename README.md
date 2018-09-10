@@ -1,6 +1,6 @@
 # API 01 - Apenas mais uma coisa para o aprendizado
 
-Quando desenvolvi essa API eu estava aprendendo a desenvolver aplicações mobile, com React Native (exclusivamente para Android porque eu sou pobre).
+Quando desenvolvi essa API eu estava aprendendo a desenvolver aplicações mobile, com [React Native](https://facebook.github.io/react-native/) (exclusivamente para Android porque eu sou pobre).
 
 No fim das contas, desenvolvi essa API mas não consegui utilizá-la no meu APP - também de aprendizado - então ela nunca foi consumida (eu acho). 
 
