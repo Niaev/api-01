@@ -11,7 +11,7 @@
     "foruns"
   ],
   "author": "cloberson_the_man",
-  "license": "ISC",
+  "license": "UNLICENSE",
   "dependencies": {
     "bcrypt": "^2.0.1",
     "body-parser": "^1.18.3",
